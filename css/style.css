@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f8ff;
+    padding: 30px;
+  }
+  
+  h1 {
+    color: #ff6f61;
+  }
+  
+  button {
+    padding: 12px 20px;
+    font-size: 16px;
+    background-color: #ffa07a;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #ff7f50;
+  }
+  
+  #dogDisplay {
+    margin-top: 30px;
+  }
+  
+  #dogDisplay img {
+    max-width: 300px;
+    border-radius: 10px;
+    margin-top: 15px;
+  }
+  
+  footer {
+    margin-top: 40px;
+    font-size: 14px;
+  }
+  
